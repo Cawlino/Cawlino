@@ -50,13 +50,21 @@ Desenvolvi uma solução Full Stack completa para prescrição de treinos com in
 
 <br>
 
-### GitHub Stats
+## 📊 Minha Atividade
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cawlino&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cawlino&layout=compact&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Cawlino&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cawlino&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  </a>
 </div>
 
 ---
 <div align="center">
-  <small>🎓 Bacharel em Engenharia de Software (UniCesumar) • ☁️ AWS Certified AI Practitioner (AIFC-01)</small>
+  <small>🎓 Bacharel em Engenharia de Software (UniCesumar) • ☁️ Curso preparatório para AWS Certified AI Practitioner (AIFC-01)</small>
 </div>
