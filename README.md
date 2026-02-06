@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://pacexai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-PaceX AI-black?style=flat&logo=vercel&logoColor=white" target="_blank" />
   </a>
 </p>
 
