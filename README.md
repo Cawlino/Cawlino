@@ -6,9 +6,17 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarrionuevo)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielbgomes11@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Project-PaceX_AI-7289da?style=for-the-badge&logo=vercel&logoColor=white)](https://pacexai.com/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielbarrionuevo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:danielbgomes11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://pacexai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat&logo=vercel&logoColor=white" target="_blank" />
+  </a>
+</p>
 
 </div>
 
@@ -30,13 +38,10 @@
 
 <br>
 
-<h2 align="center">🚀 Magnum Opus</h2>
-
-| **[PaceX AI](https://pacexai.com/)** | *Plataforma de Treino Inteligente* |
-| :--- | :--- |
-| **O que é** | Sistema Full Stack para prescrição de treinos com **IA Generativa**. |
-| **Tech** | React (Live Workout), Node.js, Python (Agente IA), AWS. |
-| **Diferencial** | Algoritmo próprio de personalização de rotinas automatizada. |
+### 💼 Projeto em Destaque
+- **[PaceX AI](https://pacexai.com/)** — Plataforma de gestão de treinos com **Agente de IA** integrado.
+  - *Tech:* React, Node.js, Python, AWS.
+  - *Destaque:* Algoritmo de personalização automática de rotinas.
 
 <br>
 
@@ -47,9 +52,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Certifica%C3%A7%C3%A3o-AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
-</div>
 ---
 
 <div align="center">
