@@ -1,48 +1,55 @@
 <div align="center">
-  
-  # Olá, sou o Daniel Barrionuevo! 👋
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Engenheiro+de+Software;Desenvolvedor+Full+Stack;AWS+%26+AI+Enthusiast;React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Daniel+Barrionuevo;Engenheiro+de+Software;AWS+%26+AI+Developer;Full+Stack+Wizard" alt="Typing SVG" />
   </a>
-
-  <p align="center">
-     <a href="https://www.linkedin.com/in/danielbarrionuevo">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-     </a>
-     <a href="https://pacexai.com/">
-        <img src="https://img.shields.io/badge/PaceX_AI-Project-7289da?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-     </a>
-  </p>
-
-  ---
-  
-  <p align="center">
-    Sou um Engenheiro de Software focado em <b>Cloud (AWS)</b> e <b>Inteligência Artificial</b>. 
-    Transformo problemas complexos em soluções escaláveis utilizando a stack moderna.
-    Minha experiência vai do Suporte Técnico N2 ao desenvolvimento de Agentes de IA.
-  </p>
 </div>
 
-## 🚀 O que eu faço
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbarrionuevo)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielbgomes11@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Project-PaceX_AI-7289da?style=for-the-badge&logo=vercel&logoColor=white)](https://pacexai.com/)
+
+</div>
+
+<br>
 
 <div align="center">
+  <b>Engenheiro de Software</b> focado em escalabilidade, <b>Cloud (AWS)</b> e <b>Inteligência Artificial</b>.<br> 
+  Ex-Analista de Dados e Suporte N2, hoje construo o futuro com React, Node.js e Python.
+</div>
+
+<br>
+
+<h2 align="center">🛠️ Tech Arsenal</h2>
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,python,aws,mysql,postgres,figma,git,github,vscode,html,css&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,python,aws,mysql,postgres,figma,git,docker,linux,vscode,postman&perline=6&theme=dark" />
   </a>
 </div>
 
 <br>
 
-## ⚡ Projeto em Destaque: [PaceX AI](https://pacexai.com/)
-> *Plataforma de Gestão de Treinos & Inteligência Artificial*
+<h2 align="center">🚀 Magnum Opus</h2>
 
-| O que é | Tecnologias |
+| **[PaceX AI](https://pacexai.com/)** | *Plataforma de Treino Inteligente* |
 | :--- | :--- |
-| 🏋️‍♂️ **App Full Stack** | Prescrição de treinos com métricas em tempo real ("Live Workout"). |
-| 🧠 **IA Integrada** | Agente em **Python** que cria rotinas personalizadas automaticamente. |
-| ☁️ **Infraestrutura** | Hospedado na **AWS**, com backend em **Node.js**. |
+| **O que é** | Sistema Full Stack para prescrição de treinos com **IA Generativa**. |
+| **Tech** | React (Live Workout), Node.js, Python (Agente IA), AWS. |
+| **Diferencial** | Algoritmo próprio de personalização de rotinas automatizada. |
 
+<br>
+
+<h2 align="center">🐍 Minhas Contribuições</h2>
+<div align="center">
+  <img src="https://github.com/Cawlino/Cawlino/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Certifica%C3%A7%C3%A3o-AWS_Certified_AI_Practitioner-FF9900?style=for-the-badge&logo=amazon&logoColor=white"/>
+</div>
 ---
 
 <div align="center">
