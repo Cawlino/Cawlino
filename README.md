@@ -46,5 +46,5 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Certifica%C3%A7%C3%A3o-AWS_Certified_AI_Practitioner_(AIFC--01)-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Cert"/>
+  <small>🎓 Bacharel em Engenharia de Software (UniCesumar) • ☁️ Curso preparatório para AWS Certified AI Practitioner (AIFC-01)</small>
 </div>
