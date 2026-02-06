@@ -50,18 +50,10 @@ Desenvolvi uma solução Full Stack completa para prescrição de treinos com in
 
 <br>
 
-## 📊 Minha Atividade
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cawlino&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</div>
-
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Cawlino&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Certifica%C3%A7%C3%A3o-AWS_Certified_AI_Practitioner_(AIFC--01)-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS Cert"/>
 </div>
 
 ---
