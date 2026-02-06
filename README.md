@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Daniel! 👋
 
-<!--
-**Cawlino/Cawlino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full-Stack focado em criar soluções inteligentes.
 
-Here are some ideas to get you started:
+- 🚀 Atualmente trabalhando no **PaceX AI**.
+- 🛠️ Tecnologias principais: React, Node.js e Python.
+- 🎓 Graduado em Engenharia/TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Minhas Tecnologias
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### GitHub Stats
+![Meus Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
