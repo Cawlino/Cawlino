@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <small>🎓 Bacharel em Engenharia de Software (UniCesumar) • ☁️ Curso preparatório para AWS Certified AI Practitioner (AIFC-01)</small>
+  <small>🎓 Bacharel em Engenharia de Software (UniCesumar) • </small>
 </div>
