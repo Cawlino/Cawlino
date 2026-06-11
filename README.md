@@ -45,13 +45,6 @@
 
 <br>
 
-<h2 align="center">🐍 Minhas Contribuições</h2>
-<div align="center">
-  <img src="https://github.com/Cawlino/Cawlino/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<br>
-
 ---
 
 <div align="center">
