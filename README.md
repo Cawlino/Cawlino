@@ -22,8 +22,8 @@
   <a href="https://agenciavitrineweb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Vitrine%20Web-6366F1?style=flat&logo=googlechrome&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Cawlino/prototipos-sites" target="_blank">
-    <img src="https://img.shields.io/badge/-110%2B%20Protótipos%20Live-36BCF7?style=flat&logo=github&logoColor=white" target="_blank" />
+  <a href="https://agenciavitrineweb.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-110%2B%20Protótipos%20Desenvolvidos-36BCF7?style=flat&logo=buffer&logoColor=white" target="_blank" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
     3. **Vibe Coding & Design Responsivo Blindado:** Geração em velocidade extrema de protótipos mobile-first com Tailwind CSS, micro-interações, biblioteca AOS e copywriting persuasivo humanizado.
     4. **Deploy Instantâneo & Abordagem no WhatsApp:** Deploy automatizado na rede de borda da Vercel e prospecção direta via WhatsApp, apresentando o protótipo funcional ao vivo antes de qualquer oferta comercial.
     5. **Fechamento & Entrega Final:** Ciclo rápido de feedback, vinculação de domínio personalizado e entrega do site de alta conversão.
-  - **Showcase Público:** Mais de **110+ protótipos de produção catalogados** por nicho de mercado (Saúde, Odonto, Direito, Engenharia, etc.) no monorepo central [**`Cawlino/prototipos-sites`**](https://github.com/Cawlino/prototipos-sites).
+  - **Acervo & Monorepo de Engenharia:** Mais de **110+ protótipos de alta conversão** desenvolvidos para clientes em diversos nichos de mercado (Saúde, Odonto, Direito, Engenharia, etc.) mantidos e versionados em monorepo central.
   - *Tech:* React 19, Tailwind CSS v4, GSAP ScrollTrigger, Three.js, Python, Puppeteer MCP, Vercel Edge.
 
 - **[PaceX AI (Plataforma Web & Mobile)](https://pacexai.com/)** — *Plataforma Completa & App Mobile de Gestão de Treinos com Agente de IA Integrado*
