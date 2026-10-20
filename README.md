@@ -59,7 +59,7 @@
   - **Fluxo de Aquisição & Prototipagem (Ponta a Ponta):**
     1. **Captação & Inteligência de Leads:** Varredura autônoma (Scraper Find Leads) identificando empresas locais com alta demanda comercial e ausência de presença web moderna.
     2. **Extração Visual via Puppeteer MCP:** Agentes headless navegam pelo Instagram e Google Maps do lead, extraindo a paleta de cores HEX real, logotipo em alta resolução, fotos autênticas e avaliações 5 estrelas reais.
-    3. **Vibe Coding & Design Responsivo Blindado:** Geração em velocidade extrema de protótipos mobile-first com Tailwind CSS, micro-interações, biblioteca AOS e copywriting persuasivo humanizado.
+    3. **Código & Design Responsivo Blindado:** Geração em velocidade extrema de protótipos mobile-first com Tailwind CSS, micro-interações, biblioteca AOS e copywriting persuasivo humanizado.
     4. **Deploy Instantâneo & Abordagem no WhatsApp:** Deploy automatizado na rede de borda da Vercel e prospecção direta via WhatsApp, apresentando o protótipo funcional ao vivo antes de qualquer oferta comercial.
     5. **Fechamento & Entrega Final:** Ciclo rápido de feedback, vinculação de domínio personalizado e entrega do site de alta conversão.
   - **Acervo & Monorepo de Engenharia:** Mais de **110+ protótipos de alta conversão** desenvolvidos para clientes em diversos nichos de mercado (Saúde, Odonto, Direito, Engenharia, etc.) mantidos e versionados em monorepo central.
