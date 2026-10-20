@@ -19,7 +19,7 @@
   <a href="https://adventista-play.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-ADV%20Play-008080?style=flat&logo=duolingo&logoColor=white" target="_blank" />
   </a>
-  <a href="https://agencia-vitrine-web.vercel.app/" target="_blank">
+  <a href="https://agenciavitrineweb.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Vitrine%20Web-6366F1?style=flat&logo=googlechrome&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Cawlino/prototipos-sites" target="_blank">
@@ -54,7 +54,7 @@
 
 ### 💼 Projetos em Destaque
 
-- **[Vitrine Web](https://agencia-vitrine-web.vercel.app/)** — *Agência Digital & Engine Autônoma de Prospecção e Conversão Web*
+- **[Vitrine Web](https://agenciavitrineweb.vercel.app/)** — *Agência Digital & Engine Autônoma de Prospecção e Conversão Web*
   - **Overview:** Plataforma institucional e pipeline autônomo de prospecção consultiva desenvolvido para converter leads B2B demonstrando valor técnico antecipado através de sites e landing pages produzidos sob medida em tempo recorde.
   - **Fluxo de Aquisição & Prototipagem (Ponta a Ponta):**
     1. **Captação & Inteligência de Leads:** Varredura autônoma (Scraper Find Leads) identificando empresas locais com alta demanda comercial e ausência de presença web moderna.
