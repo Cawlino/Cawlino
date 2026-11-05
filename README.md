@@ -16,6 +16,9 @@
   <a href="https://pacexai.com/" target="_blank">
     <img src="https://img.shields.io/badge/-PaceX%20AI-black?style=flat&logo=vercel&logoColor=white" target="_blank" />
   </a>
+  <a href="https://github.com/Cawlino/universal-project-memory" target="_blank">
+    <img src="https://img.shields.io/badge/-UPM%20(Universal%20Project%20Memory)-6366F1?style=flat&logo=git&logoColor=white" target="_blank" />
+  </a>
   <a href="https://adventista-play.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-ADV%20Play-008080?style=flat&logo=duolingo&logoColor=white" target="_blank" />
   </a>
@@ -54,28 +57,21 @@
 
 ### 💼 Projetos em Destaque
 
-- **[Vitrine Web](https://agenciavitrineweb.vercel.app/)** — *Agência Digital e Engine Autônoma de Prospecção e Conversão Web*
-  - **Overview:** Plataforma institucional e pipeline autônomo de prospecção consultiva desenvolvido para converter leads B2B demonstrando valor técnico antecipado através de sites e landing pages produzidos sob medida em tempo recorde.
-  - **Fluxo de Aquisição e Prototipagem (Ponta a Ponta):**
-    1. **Captação e Inteligência de Leads:** Varredura autônoma (Scraper Find Leads) identificando empresas locais com alta demanda comercial e ausência de presença web moderna.
-    2. **Extração Visual via Puppeteer MCP:** Agentes headless navegam pelo Instagram e Google Maps do lead, extraindo a paleta de cores HEX real, logotipo em alta resolução, fotos autênticas e avaliações 5 estrelas reais.
-    3. **Código e Design Responsivo Blindado:** Geração em velocidade extrema de protótipos mobile-first com Tailwind CSS, micro-interações, biblioteca AOS e copywriting persuasivo humanizado.
-    4. **Deploy Instantâneo e Abordagem no WhatsApp:** Deploy automatizado na rede de borda da Vercel e prospecção direta via WhatsApp, apresentando o protótipo funcional ao vivo antes de qualquer oferta comercial.
-    5. **Fechamento e Entrega Final:** Ciclo rápido de feedback, vinculação de domínio personalizado e entrega do site de alta conversão.
-  - **Acervo e Monorepo de Engenharia:** Mais de **110+ protótipos de alta conversão** desenvolvidos para clientes em diversos nichos de mercado (Saúde, Odonto, Direito, Engenharia, etc.) mantidos e versionados em monorepo central.
-  - *Tech:* React 19, Tailwind CSS v4, GSAP ScrollTrigger, Three.js, Python, Puppeteer MCP, Vercel Edge.
+- **[PaceX AI (Web e Mobile)](https://pacexai.com/)** — *Plataforma Completa e App Mobile de Gestão de Treinos com Agente de IA Integrado*
+  - *Tech:* React, React Native (Expo), Node.js, Python/Django, PostgreSQL, Docker, AWS.
+  - *Destaque:* Liderança Full Stack de produto, motor adaptativo de treinos com Agente de IA via *Function Calling* (Grok/Gemini) e gateway financeiro integrado (Stripe e AbacatePay).
 
-- **[PaceX AI (Plataforma Web e Mobile)](https://pacexai.com/)** — *Plataforma Completa e App Mobile de Gestão de Treinos com Agente de IA Integrado*
-  - *Tech:* React, React Native/Expo, Node.js, Python/Django, PostgreSQL, Docker, AWS.
-  - *Destaque:* Liderança Full Stack de produto, motor inteligente com Agente de IA via *Function Calling* (Grok/Gemini) para análise adaptativa de volume e carga de treino, e integração financeira completa com pagamentos via Stripe e AbacatePay.
+- **[Universal Project Memory (UPM)](https://github.com/Cawlino/universal-project-memory)** — *Padrão Arquitetural Aberto de Memória Persistente para Agentes de IA*
+  - *Tech:* Markdown, Shell/PowerShell, MCP (Model Context Protocol), Prompt Engineering Multi-LLM.
+  - *Destaque:* Arquitetura 3-Tier (`.context/`) com boot ultrarrápido (<500 tokens), eliminando a amnésia entre sessões e sincronizando decisões (ADRs) entre Antigravity, Claude, Cursor e Codex.
+
+- **[Vitrine Web](https://agenciavitrineweb.vercel.app/)** — *Engine Autônoma de Prospecção B2B e Acervo de Prototipagem Ágil*
+  - *Tech:* React 19, Tailwind CSS, Three.js, Python, Puppeteer MCP, Vercel Edge.
+  - *Destaque:* Pipeline de extração visual automatizada de leads via agentes headless e monorepo com mais de 110 protótipos mobile-first de alta conversão.
 
 - **[Adventista Play (ADV Play)](https://adventista-play.vercel.app/)** — *Aplicação Gamificada de Educação e Engajamento de Leitura*
   - *Tech:* Next.js, React Native, Supabase (PostgreSQL), Tailwind CSS.
-  - *Destaque:* Arquitetura interativa inspirada no modelo do Duolingo, quizzes dinâmicos gerados em tempo real por modelos de linguagem (LLMs) e motor de retenção com acompanhamento contínuo de progresso (*streaks*).
-
-- **CometChart** — *Dashboard Financeiro Interativo para Monitoramento de KPIs em Tempo Real*
-  - *Tech:* React 19, TanStack Start/Router, Tailwind CSS, Node.js/Express, PostgreSQL, Drizzle ORM, Docker.
-  - *Destaque:* Renderização de altíssima velocidade e responsividade consumindo APIs REST em ambiente conteinerizado, com arquitetura tipada de ponta a ponta.
+  - *Destaque:* Mecânicas interativas inspiradas no Duolingo, geração de quizzes em tempo real via LLMs e motor de retenção por *streaks*.
 
 <br>
 
