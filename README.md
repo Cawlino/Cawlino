@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Daniel+Barrionuevo;Tech+Lead+e+Software+Engineer;AI+Agents+e+Cloud+Architecture;Full+Stack+Product+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=Daniel+Barrionuevo;Desenvolvedor+Web%2C+Mobile+e+AI;Full+Stack+(Python%2C+JavaScript%2C+React%2C+Node);Software+Engineer+%26+Product+Builder" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,9 +35,9 @@
 <br>
 
 <div align="center">
-  <b>Tech Lead e Engenheiro de Software Full Stack</b> especializado na concepção de produtos digitais escaláveis, arquiteturas <b>Cloud (AWS)</b> e integração profunda de <b>Agentes de Inteligência Artificial</b>.<br>
-  Experiência prática na liderança técnica de ponta a ponta — do design e experiência do usuário (UX) a sistemas distribuídos, microsserviços conteinerizados e motores autônomos de conversão.<br>
-  Aliando sólida base analítica (Data/BI), metodologias ágeis e código limpo para construir soluções de alta performance que geram impacto mensurável de negócio.
+  <b>Desenvolvedor Web, Mobile e AI</b> especializado no ecossistema <b>JavaScript/TypeScript</b> (React, Next.js, React Native) e construção de backends robustos em <b>Python</b> e <b>Node.js</b>.<br>
+  Experiência prática de ponta a ponta: da concepção de interfaces modernas e responsivas à integração de bancos de dados relacionais (PostgreSQL), microsserviços conteinerizados e <b>Agentes de Inteligência Artificial</b>.<br>
+  Focado em código limpo, resolução ágil de problemas complexos e entrega de soluções escaláveis de alta performance que geram impacto real.
 </div>
 
 <br>
